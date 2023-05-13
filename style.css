@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(9, 172, 190);
+}
+
+.ball {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+}
+input, button{
+font-size: 20px;
+}
+
+
+.Food {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color:rgb(193, 42, 42);
+    
+}  
